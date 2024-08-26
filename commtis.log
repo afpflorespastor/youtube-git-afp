@@ -1,0 +1,92 @@
+commit 7342db1983ba3fbc1e10f00e9ab423b050c4cd74
+Merge: 4321c60 893c0ef
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:47:47 2024 -0500
+
+    Resolviendo conflicto en estaciones y fechas
+
+commit 4321c6000006d165156ac5460af81e28c4150dab
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:35:08 2024 -0500
+
+    Estaciones del año con fecha
+
+commit 893c0efeca83c6ccf59a7a654249976bf370fefd
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:35:08 2024 -0500
+
+    Agregando estaciones del año
+
+commit cc6ad7939d8d9fe1e5772d127c6da9d60e280b3c
+Merge: d318cf5 f81bc16
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:31:27 2024 -0500
+
+    Resolviendo conflicto merge mainhtml en el index.htl
+
+commit f81bc16ba4562df89e33c7002d1c5936c18bf5e1
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:26:27 2024 -0500
+
+    Agregando js al index.html
+
+commit d318cf5f3baf81b0899d54da4aa3bdc0eb289f90
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:23:19 2024 -0500
+
+    Agregando style css al index
+
+commit 4cae49515e84068ca4e96f93bfb2b2436632a7b2
+Merge: 076df7b 5b14c05
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:11:25 2024 -0500
+
+    Merge branch 'js'
+
+commit 5b14c05d496df3a58f101083746525d75ca888ab
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:06:51 2024 -0500
+
+    reando js
+
+commit 076df7bceeb443e66610e831e8e13a413dfeb100
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 10:03:25 2024 -0500
+
+    Creando estilos
+
+commit 1dd628a7497cb707c24b9bf91e5802fa9f8c81ea
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 09:59:27 2024 -0500
+
+    Creando index.html
+
+commit 54b283aa0d1ec2392a0f19cd003a5f56a847550e
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Mon Aug 26 09:47:02 2024 -0500
+
+    IGNORANDO EXE
+
+commit 2d6eaf5c74c39a0290b395bafca72feeb2ef0655
+Author: alexfpastor <64387899+alexfpastor@users.noreply.github.com>
+Date:   Fri Aug 23 15:09:32 2024 -0500
+
+    Creando Licencia del repo
+
+commit c5091f249fc6d071d96e72489433f24239c072a1
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Fri Aug 23 14:57:25 2024 -0500
+
+    Agregando mas contenido
+
+commit b1486dbbbe5e0e8b13423b6ae44f4e371b9bb536
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Fri Aug 23 14:44:26 2024 -0500
+
+    AGREGANDO CONTENIDO AL README
+
+commit a37ed02ef1ffff85289e6749dae512f719a571ce
+Author: ALEXANTERO <alexinfo099@gmail.com>
+Date:   Fri Aug 23 14:40:21 2024 -0500
+
+    PRIMER COMMIT :)

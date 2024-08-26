@@ -1,0 +1,22 @@
+*   7342db1 Resolviendo conflicto en estaciones y fechas
+|\  
+| * 893c0ef Agregando estaciones del año
+* | 4321c60 Estaciones del año con fecha
+|/  
+*   cc6ad79 Resolviendo conflicto merge mainhtml en el index.htl
+|\  
+| * f81bc16 Agregando js al index.html
+* | d318cf5 Agregando style css al index
+* |   4cae495 Merge branch 'js'
+|\ \  
+| * | 5b14c05 reando js
+* | | 076df7b Creando estilos
+| |/  
+|/|   
+* | 1dd628a Creando index.html
+|/  
+* 54b283a IGNORANDO EXE
+* 2d6eaf5 Creando Licencia del repo
+* c5091f2 Agregando mas contenido
+* b1486db AGREGANDO CONTENIDO AL README
+* a37ed02 PRIMER COMMIT :)
