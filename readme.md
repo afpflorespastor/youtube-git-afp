@@ -4,3 +4,4 @@ HOLA SOY TU AMIGO JON MIRCHA BIENVENIDOS
 
 Agregando mas contenido al Readme
 
+Quieres dominar el uso de GIT mira este enlace - cambio realizado por AFP
